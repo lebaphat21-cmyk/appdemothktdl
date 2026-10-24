@@ -1,0 +1,13 @@
+{
+    "initial_rows": 522064,
+    "initial_bills": 21663,
+    "initial_items": 4185,
+    "cleaned_rows": 506667,
+    "cleaned_bills": 19384,
+    "cleaned_items": 3990,
+    "total_transactions_usable": 17907,
+    "avg_basket_size": 28.2118724521137,
+    "median_basket_size": 17.0,
+    "max_basket_size": 1107,
+    "min_items_filter": 2
+}
